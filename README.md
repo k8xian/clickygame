@@ -11,5 +11,5 @@
 * Styled Components
 
 # Credits
-* Planet images - Nasa
+* Planet images - [NASA: Solar System Exploration](https://www.google.com/search?q=nasa+solar+system&oq=nasa+solar+system&aqs=chrome..69i57j69i60l3.2880j0j7&sourceid=chrome&ie=UTF-8)
 * Background: Pixabay user [Free-Photos](https://pixabay.com/en/sky-stars-constellations-astronomy-828648/)
