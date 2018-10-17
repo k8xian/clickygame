@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ceres",
+        "image": "../images/ceres.png"
+    },
+    {
+        "name": "earth",
+        "image": "../images/earth.png"
+    },
+    {
+        "name": "jupiter",
+        "image": "../images/jupiter.png"
+    },
+    {
+        "name": "mars",
+        "image": "../images/mars.png"
+    },
+    {
+        "name": "mercury",
+        "image": "../images/mercury.png"
+    },
+    {
+        "name": "moon",
+        "image": "../images/moon.png"
+    },
+    {
+        "name": "neptune",
+        "image": "../images/neptune.png"
+    },
+    {
+        "name": "pluto",
+        "image": "../images/pluto.png"
+    },
+    {
+        "name": "saturn",
+        "image": "../images/saturn.png"
+    },
+    {
+        "name": "sun",
+        "image": "../images/sun.png"
+    },
+    {
+        "name": "uranus",
+        "image": "../images/uranus.png"
+    },
+    {
+        "name": "venus",
+        "image": "../images/venus.png"
+    }
+]
