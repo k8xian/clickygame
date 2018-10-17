@@ -26,11 +26,23 @@ const GlobalStyle = createGlobalStyle`
       margin: auto;
       line-height: 54px;
       display: block;
+      cursor: pointer;
+      transition-property: color;
+      transition-duration: 500ms;
+      transition-timing-function: ease-in-out;s
   }
+
+  a.footer__link:hover {
+    color: rgba(255,255,255,.8);
+}
   li {
     list-style-type: none;
-    margin-bottom: 10px;
-    font-size: 1em;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+  }
+
+  ul {
+    padding-inline-start: 0px;
   }
 
   img{
@@ -44,6 +56,8 @@ const GlobalStyle = createGlobalStyle`
       position: fixed;
       bottom: 0;
   }
+
+
 
   @media screen and (max-width: 750px){
       img {

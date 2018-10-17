@@ -9,6 +9,11 @@ h1 {
     font-size: 4em;
     margin-bottom: 20px;
 }
+@media screen and (max-width: 750px){
+    h1 {
+        font-size: 2em;
+    }
+}
 `
 
 
