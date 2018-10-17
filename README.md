@@ -9,3 +9,7 @@
 # Development
 * React.js
 * Styled Components
+
+# Credits
+* Planet images - Nasa
+* Background: Pixabay user [Free-Photos](https://pixabay.com/en/sky-stars-constellations-astronomy-828648/)
